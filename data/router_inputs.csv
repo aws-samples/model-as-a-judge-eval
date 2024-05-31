@@ -1,0 +1,101 @@
+User Request,Action
+Can you schedule a meeting with my team next week?,ActionAgent
+What is the company policy on remote work?,RAGAgent
+I'm not sure what I should do next,ClarificationFunction
+How do I submit a reimbursement request?,RAGAgent
+I need help resetting my password,ActionAgent
+Tell me a joke,FallbackFunction
+What are the steps to onboard a new employee?,RAGAgent
+I want to book a flight to Hawaii,ActionAgent
+How much vacation time do I have left?,ActionAgent
+I'm feeling a bit overwhelmed today,FallbackFunction
+What is the dress code policy?,RAGAgent
+Can you send me the latest sales report?,ActionAgent
+I'm not sure how to use this software,ClarificationFunction
+I need to schedule a doctor's appointment,ActionAgent
+What are the benefits of the company health plan?,RAGAgent
+I want to report a bug in the system,ActionAgent
+How do I apply for a job at this company?,RAGAgent
+I'm feeling really stressed out,FallbackFunction
+Can you help me set up a new email account?,ActionAgent
+What are the steps for submitting a project proposal?,RAGAgent
+I'm not clear on my role and responsibilities,RAGAgent
+I need to book a hotel room for my business trip,ActionAgent
+What is the company's policy on social media use?,RAGAgent
+I want to learn how to use Excel better,ClarificationFunction
+Can you help me format this document?,ActionAgent
+What are the guidelines for expense reporting?,RAGAgent
+I'm feeling really frustrated with a coworker,FallbackFunction
+I need to order new office supplies,ActionAgent
+What is the process for requesting time off?,RAGAgent
+I'm not sure how to use this software feature,ClarificationFunction
+Can you help me schedule a team-building activity?,ActionAgent
+What are the company's core values?,RAGAgent
+I want to report a security concern,ActionAgent
+How do I access the employee portal?,RAGAgent
+I'm feeling really unmotivated today,FallbackFunction
+Can you help me create a presentation?,ActionAgent
+What is the company's policy on remote work during emergencies?,RAGAgent
+I'm not sure how to handle this customer complaint,ClarificationFunction
+I need to book a conference room for a meeting,ActionAgent
+What are the steps for requesting a promotion?,RAGAgent
+I want to learn how to use a new software tool,ClarificationFunction
+Can you help me update my resume?,ActionAgent
+What is the company's policy on fire drills?,RAGAgent
+Why is the sky blue?,FallbackFunction
+I need to book a flight for a business trip,ActionAgent
+What are the training opportunities available to employees?,RAGAgent
+I need to schedule a meeting with a client,ActionAgent
+What are the company's policies on data privacy?,RAGAgent
+I'm not sure how to interpret these analytics reports,ClarificationFunction
+Can you help me book a rental car for my business trip?,ActionAgent
+What are the steps for enrolling in the 401(k) plan?,RAGAgent
+I want to report unethical behavior,ActionAgent
+How do I access the employee discount program?,RAGAgent
+I'm feeling really unmotivated and unproductive lately,FallbackFunction
+Can you help me create a new marketing campaign?,ActionAgent
+What is the company's policy on working from home?,RAGAgent
+I'm not sure how to use this project management software,ClarificationFunction
+I need to book a conference room for a training session,ActionAgent
+What are the benefits of the employee wellness program?,RAGAgent
+I want to report a safety concern,ActionAgent
+How do I submit a request for office equipment?,RAGAgent
+I'm feeling really stressed about an upcoming deadline,FallbackFunction
+Can you help me update my professional profile on LinkedIn?,ActionAgent
+What is the company's policy on email and internet usage?,RAGAgent
+I'm not sure how to handle a difficult customer situation,ClarificationFunction
+I need to book a hotel room for a conference,ActionAgent
+What are the steps for requesting a pay raise?,RAGAgent
+I want to learn how to use a new programming language,ClarificationFunction
+Can you help me create a budget for a new project?,ActionAgent
+What is the company's policy on workplace harassment?,RAGAgent
+How do I make a peanut butter and jelly sandwich?,FallbackFunction
+I need to order new business cards,ActionAgent
+What are the training opportunities for management roles?,RAGAgent
+I'm not sure how to use the new timesheet software,ClarificationFunction
+Can you help me plan a team-building event?,ActionAgent
+What is the company's policy on workplace safety?,RAGAgent
+I want to report a violation of company policy,ActionAgent
+How do I access the employee assistance program?,RAGAgent
+Are you claude?,FallbackFunction
+Can you help me create a presentation for a client pitch?,ActionAgent
+What are the steps for requesting tuition reimbursement?,RAGAgent
+I'm not sure how to use the new video conferencing software,ClarificationFunction
+I need to book a venue for a company event,ActionAgent
+What are the benefits of the employee stock purchase plan?,RAGAgent
+I want to learn how to use a new project management tool,ClarificationFunction
+Can you help me update my professional portfolio?,ActionAgent
+What is the company's policy on late trainings?,RAGAgent
+I'm feeling really stressed about an upcoming deadline,FallbackFunction
+I need to book a rental car for a business trip,ActionAgent
+What are the steps for requesting a job transfer?,RAGAgent
+I want to submit feedback on how my coworkers fantastic performance.,ActionAgent
+What are the company's policies on workplace safety?,RAGAgent
+I'm not sure how to use the new accounting software,ClarificationFunction
+Can you help me book a flight for a conference?,ActionAgent
+What are the benefits of the employee retirement plan?,RAGAgent
+I want to learn how to use a new programming language,ClarificationFunction
+Can you help me create a marketing plan for a new product launch?,ActionAgent
+What is the company's policy on remote work during inclement weather?,RAGAgent
+I'm feeling really unmotivated and need some motivation,FallbackFunction
+I need to book a venue for a company holiday party,ActionAgent
